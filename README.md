@@ -1,13 +1,14 @@
-
 # Simple GIF Search Web Application
 A simple web application to search for GIFs
 
+ ## Website
+ [GIF Search Web App](https://gif-search-web-app.herokuapp.com/)
+
 ## Getting Started
+To get this project running on your local machine: 
+
 **Prerequisites**
-Make sure you have npm installed
-
-
-**Before you start:**
+* Install [Node.js/npm](https://www.npmjs.com/get-npm) (if you don't have it)
 * Sign up for an API Key at [GIFHY](https://developers.giphy.com/)
 
 **To run project locally:**
@@ -25,3 +26,4 @@ Make sure you have npm installed
 ## Technologies
 * Built using [ReactJS](https://www.gatsbyjs.org/)
 * Powered by [GIFHY](https://giphy.com/)
+* Deployed with [Heroku](https://www.heroku.com/platform)
